@@ -1,0 +1,159 @@
+{
+  "timestamp": "2025-11-30T16:12:12.106749-05:00",
+  "vessels": [
+    {
+      "name": "MAGNIFICA",
+      "mmsi": "247271400",
+      "type": "Unknown",
+      "Latitude": 41.52138333333333,
+      "Longitude": -71.34686666666667,
+      "Sog": 0.1,
+      "Cog": 181,
+      "ShipType": "Unknown",
+      "Dimension": {}
+    },
+    {
+      "name": "CG SYCAMORE",
+      "mmsi": "368014000",
+      "type": "Unknown",
+      "Latitude": 41.52771,
+      "Longitude": -71.35435833333332,
+      "Sog": 0.1,
+      "Cog": 123,
+      "ShipType": "Unknown",
+      "Dimension": {}
+    },
+    {
+      "name": "WINDSERVE GENESIS",
+      "mmsi": "368315820",
+      "type": "Unknown",
+      "Latitude": 41.613078333333334,
+      "Longitude": -71.408415,
+      "Sog": 0,
+      "Cog": 329.7,
+      "ShipType": "Unknown",
+      "Dimension": {}
+    },
+    {
+      "name": "WINDSERVE SPARTAN",
+      "mmsi": "368379170",
+      "type": "Unknown",
+      "Latitude": 41.588768333333334,
+      "Longitude": -71.40951,
+      "Sog": 0,
+      "Cog": 0,
+      "ShipType": "Unknown",
+      "Dimension": {}
+    },
+    {
+      "name": "STEPHEN REINAUER",
+      "mmsi": "366516370",
+      "type": "Unknown",
+      "Latitude": 41.75312333333333,
+      "Longitude": -71.37339,
+      "Sog": 7.5,
+      "Cog": 342.3,
+      "ShipType": "Unknown",
+      "Dimension": {}
+    },
+    {
+      "name": "CAPT. ALMER DINSMORE",
+      "mmsi": "368420860",
+      "type": "Unknown",
+      "Latitude": 41.58687666666666,
+      "Longitude": -71.41156833333334,
+      "Sog": 0,
+      "Cog": 195.4,
+      "ShipType": "Unknown",
+      "Dimension": {}
+    },
+    {
+      "name": "MASTER JAMES",
+      "mmsi": "367306390",
+      "type": "Unknown",
+      "Latitude": 41.634056666666666,
+      "Longitude": -70.90813499999999,
+      "Sog": 0,
+      "Cog": 250.1,
+      "ShipType": "Unknown",
+      "Dimension": {}
+    },
+    {
+      "name": "ROWAN M MCALLISTER",
+      "mmsi": "367314640",
+      "type": "Unknown",
+      "Latitude": 41.69578666666666,
+      "Longitude": -71.180605,
+      "Sog": 0,
+      "Cog": 122.7,
+      "ShipType": "Unknown",
+      "Dimension": {}
+    },
+    {
+      "name": "ULTRA CORY",
+      "mmsi": "357330000",
+      "type": "Unknown",
+      "Latitude": 41.792606666666664,
+      "Longitude": -71.38262,
+      "Sog": 0,
+      "Cog": 230.8,
+      "ShipType": "Unknown",
+      "Dimension": {}
+    },
+    {
+      "name": "LUCINDA SMITH",
+      "mmsi": "367723620",
+      "type": "Unknown",
+      "Latitude": 41.573115,
+      "Longitude": -70.87377166666667,
+      "Sog": 6.1,
+      "Cog": 151,
+      "ShipType": "Unknown",
+      "Dimension": {}
+    },
+    {
+      "name": "WINDSERVE JOURNEY",
+      "mmsi": "368337490",
+      "type": "Unknown",
+      "Latitude": 41.612880000000004,
+      "Longitude": -71.40870666666666,
+      "Sog": 0,
+      "Cog": 120.6,
+      "ShipType": "Unknown",
+      "Dimension": {}
+    },
+    {
+      "name": "WINDSERVE EXPLORER",
+      "mmsi": "368359240",
+      "type": "Unknown",
+      "Latitude": 41.613123333333334,
+      "Longitude": -71.40851833333333,
+      "Sog": 0,
+      "Cog": 300.8,
+      "ShipType": "Unknown",
+      "Dimension": {}
+    },
+    {
+      "name": "PATRICK MCALLISTER",
+      "mmsi": "367553370",
+      "type": "Unknown",
+      "Latitude": 41.79322166666667,
+      "Longitude": -71.38153666666668,
+      "Sog": 7.8,
+      "Cog": 141.2,
+      "ShipType": "Unknown",
+      "Dimension": {}
+    },
+    {
+      "name": "GRANDE GUINEA",
+      "mmsi": "247293300",
+      "type": "Unknown",
+      "Latitude": 41.61212,
+      "Longitude": -71.40625333333334,
+      "Sog": 0,
+      "Cog": 311.9,
+      "ShipType": "Unknown",
+      "Dimension": {}
+    }
+  ]
+}
